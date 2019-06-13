@@ -33,7 +33,7 @@ for(int i = 0; i < strlen(word); i++){
 //printf("%d\n", strlen(word));
 if(word[i] == ' '){
 printf("             ");
-}#include <stdio.h>
+#include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
 
